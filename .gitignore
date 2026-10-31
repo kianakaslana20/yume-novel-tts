@@ -1,0 +1,21 @@
+# 临时文件
+*.tmp
+*.bak
+*.bak_*
+*.log
+__pycache__/
+*.pyc
+
+# 密钥与本机环境
+.env
+brz_*
+*.key
+
+# 中间产物
+segs_clean.json
+manifest.json
+chapter*.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store
